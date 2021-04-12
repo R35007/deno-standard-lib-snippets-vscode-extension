@@ -1,0 +1,31 @@
+{
+    "name": "deno-standard-lib-snippets",
+    "displayName": "Deno Standard Library Snippets",
+    "description": "Deno Standard library snippet import autocompletions for VS Code",
+    "version": "1.0.0",
+    "icon": "deno-logo.png",
+    "publisher": "Thinker",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/R35007/deno-standard-lib-snippets"
+    },
+    "author": {
+        "name": "Sivaraman",
+        "email": "sendmsg2siva@gmail.com"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
