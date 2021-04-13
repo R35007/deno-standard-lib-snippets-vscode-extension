@@ -116,7 +116,6 @@ Autocomplete for Modules below using tag: `deno-`.
 | `deno-node-crypto`              | import { $1 } from 'https://deno.land/std@0.92.0/node/crypto.ts'              |
 | `deno-node-events`              | import { $1 } from 'https://deno.land/std@0.92.0/node/events.ts'              |
 | `deno-node-fs`                  | import { $1 } from 'https://deno.land/std@0.92.0/node/fs.ts'                  |
-| `deno-node-global.d`            | import { $1 } from 'https://deno.land/std@0.92.0/node/global.d.ts'            |
 | `deno-node-global`              | import { $1 } from 'https://deno.land/std@0.92.0/node/global.ts'              |
 | `deno-node-module`              | import { $1 } from 'https://deno.land/std@0.92.0/node/module.ts'              |
 | `deno-node-os`                  | import { $1 } from 'https://deno.land/std@0.92.0/node/os.ts'                  |
