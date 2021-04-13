@@ -643,13 +643,6 @@
     ],
     "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/fs.ts'"
   },
-  "deno-node-global.d": {
-    "prefix": "deno-node-global.d",
-    "body": [
-      "import { $1 } from 'https://deno.land/std@0.92.0/node/global.d.ts'"
-    ],
-    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/global.d.ts'"
-  },
   "deno-node-global": {
     "prefix": "deno-node-global",
     "body": [
