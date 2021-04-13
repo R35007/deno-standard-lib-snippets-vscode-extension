@@ -2,918 +2,1910 @@
   "deno-archive-tar": {
     "prefix": "deno-archive-tar",
     "body": [
-      "import { $1 } from 'https://deno.land/std/archive/tar.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/archive/tar.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/archive/tar.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/archive/tar.ts'"
   },
   "deno-async-deferred": {
     "prefix": "deno-async-deferred",
     "body": [
-      "import { $1 } from 'https://deno.land/std/async/deferred.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/async/deferred.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/async/deferred.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/async/deferred.ts'"
   },
   "deno-async-delay": {
     "prefix": "deno-async-delay",
     "body": [
-      "import { $1 } from 'https://deno.land/std/async/delay.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/async/delay.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/async/delay.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/async/delay.ts'"
   },
   "deno-async-mod": {
     "prefix": "deno-async-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/async/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/async/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/async/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/async/mod.ts'"
   },
   "deno-async-mux_async_iterator": {
     "prefix": "deno-async-mux_async_iterator",
     "body": [
-      "import { $1 } from 'https://deno.land/std/async/mux_async_iterator.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/async/mux_async_iterator.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/async/mux_async_iterator.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/async/mux_async_iterator.ts'"
   },
   "deno-async-pool": {
     "prefix": "deno-async-pool",
     "body": [
-      "import { $1 } from 'https://deno.land/std/async/pool.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/async/pool.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/async/pool.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/async/pool.ts'"
   },
   "deno-async-test": {
     "prefix": "deno-async-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/async/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/async/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/async/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/async/test.ts'"
   },
   "deno-bytes-mod": {
     "prefix": "deno-bytes-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/bytes/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/bytes/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/bytes/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/bytes/mod.ts'"
   },
   "deno-bytes-test": {
     "prefix": "deno-bytes-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/bytes/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/bytes/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/bytes/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/bytes/test.ts'"
   },
   "deno-datetime-formatter": {
     "prefix": "deno-datetime-formatter",
     "body": [
-      "import { $1 } from 'https://deno.land/std/datetime/formatter.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/datetime/formatter.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/datetime/formatter.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/datetime/formatter.ts'"
   },
   "deno-datetime-mod": {
     "prefix": "deno-datetime-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/datetime/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/datetime/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/datetime/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/datetime/mod.ts'"
   },
   "deno-datetime-test": {
     "prefix": "deno-datetime-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/datetime/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/datetime/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/datetime/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/datetime/test.ts'"
   },
   "deno-datetime-tokenizer": {
     "prefix": "deno-datetime-tokenizer",
     "body": [
-      "import { $1 } from 'https://deno.land/std/datetime/tokenizer.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/datetime/tokenizer.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/datetime/tokenizer.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/datetime/tokenizer.ts'"
   },
   "deno-encoding-ascii85": {
     "prefix": "deno-encoding-ascii85",
     "body": [
-      "import { $1 } from 'https://deno.land/std/encoding/ascii85.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/encoding/ascii85.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/encoding/ascii85.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/encoding/ascii85.ts'"
   },
   "deno-encoding-base32": {
     "prefix": "deno-encoding-base32",
     "body": [
-      "import { $1 } from 'https://deno.land/std/encoding/base32.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/encoding/base32.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/encoding/base32.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/encoding/base32.ts'"
   },
   "deno-encoding-base64": {
     "prefix": "deno-encoding-base64",
     "body": [
-      "import { $1 } from 'https://deno.land/std/encoding/base64.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/encoding/base64.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/encoding/base64.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/encoding/base64.ts'"
   },
   "deno-encoding-base64url": {
     "prefix": "deno-encoding-base64url",
     "body": [
-      "import { $1 } from 'https://deno.land/std/encoding/base64url.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/encoding/base64url.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/encoding/base64url.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/encoding/base64url.ts'"
   },
   "deno-encoding-binary": {
     "prefix": "deno-encoding-binary",
     "body": [
-      "import { $1 } from 'https://deno.land/std/encoding/binary.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/encoding/binary.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/encoding/binary.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/encoding/binary.ts'"
   },
   "deno-encoding-csv": {
     "prefix": "deno-encoding-csv",
     "body": [
-      "import { $1 } from 'https://deno.land/std/encoding/csv.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/encoding/csv.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/encoding/csv.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/encoding/csv.ts'"
   },
   "deno-encoding-csv_stringify": {
     "prefix": "deno-encoding-csv_stringify",
     "body": [
-      "import { $1 } from 'https://deno.land/std/encoding/csv_stringify.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/encoding/csv_stringify.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/encoding/csv_stringify.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/encoding/csv_stringify.ts'"
   },
   "deno-encoding-hex": {
     "prefix": "deno-encoding-hex",
     "body": [
-      "import { $1 } from 'https://deno.land/std/encoding/hex.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/encoding/hex.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/encoding/hex.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/encoding/hex.ts'"
   },
   "deno-encoding-toml": {
     "prefix": "deno-encoding-toml",
     "body": [
-      "import { $1 } from 'https://deno.land/std/encoding/toml.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/encoding/toml.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/encoding/toml.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/encoding/toml.ts'"
   },
   "deno-encoding-yaml": {
     "prefix": "deno-encoding-yaml",
     "body": [
-      "import { $1 } from 'https://deno.land/std/encoding/yaml.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/encoding/yaml.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/encoding/yaml.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/encoding/yaml.ts'"
   },
   "deno-examples-cat": {
     "prefix": "deno-examples-cat",
     "body": [
-      "import { $1 } from 'https://deno.land/std/examples/cat.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/examples/cat.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/examples/cat.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/examples/cat.ts'"
   },
   "deno-examples-catj": {
     "prefix": "deno-examples-catj",
     "body": [
-      "import { $1 } from 'https://deno.land/std/examples/catj.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/examples/catj.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/examples/catj.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/examples/catj.ts'"
   },
   "deno-examples-colors": {
     "prefix": "deno-examples-colors",
     "body": [
-      "import { $1 } from 'https://deno.land/std/examples/colors.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/examples/colors.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/examples/colors.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/examples/colors.ts'"
   },
   "deno-examples-curl": {
     "prefix": "deno-examples-curl",
     "body": [
-      "import { $1 } from 'https://deno.land/std/examples/curl.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/examples/curl.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/examples/curl.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/examples/curl.ts'"
   },
   "deno-examples-echo_server": {
     "prefix": "deno-examples-echo_server",
     "body": [
-      "import { $1 } from 'https://deno.land/std/examples/echo_server.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/examples/echo_server.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/examples/echo_server.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/examples/echo_server.ts'"
   },
   "deno-examples-flags": {
     "prefix": "deno-examples-flags",
     "body": [
-      "import { $1 } from 'https://deno.land/std/examples/flags.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/examples/flags.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/examples/flags.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/examples/flags.ts'"
   },
   "deno-examples-gist": {
     "prefix": "deno-examples-gist",
     "body": [
-      "import { $1 } from 'https://deno.land/std/examples/gist.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/examples/gist.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/examples/gist.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/examples/gist.ts'"
   },
   "deno-examples-test": {
     "prefix": "deno-examples-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/examples/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/examples/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/examples/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/examples/test.ts'"
   },
   "deno-examples-welcome": {
     "prefix": "deno-examples-welcome",
     "body": [
-      "import { $1 } from 'https://deno.land/std/examples/welcome.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/examples/welcome.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/examples/welcome.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/examples/welcome.ts'"
   },
   "deno-examples-xeval": {
     "prefix": "deno-examples-xeval",
     "body": [
-      "import { $1 } from 'https://deno.land/std/examples/xeval.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/examples/xeval.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/examples/xeval.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/examples/xeval.ts'"
   },
   "deno-flags-mod": {
     "prefix": "deno-flags-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/flags/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/flags/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/flags/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/flags/mod.ts'"
   },
   "deno-flags-test": {
     "prefix": "deno-flags-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/flags/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/flags/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/flags/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/flags/test.ts'"
   },
   "deno-fmt-colors": {
     "prefix": "deno-fmt-colors",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fmt/colors.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fmt/colors.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fmt/colors.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fmt/colors.ts'"
   },
   "deno-fmt-printf": {
     "prefix": "deno-fmt-printf",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fmt/printf.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fmt/printf.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fmt/printf.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fmt/printf.ts'"
   },
   "deno-fs-copy": {
     "prefix": "deno-fs-copy",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fs/copy.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fs/copy.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fs/copy.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fs/copy.ts'"
   },
   "deno-fs-empty_dir": {
     "prefix": "deno-fs-empty_dir",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fs/empty_dir.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fs/empty_dir.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fs/empty_dir.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fs/empty_dir.ts'"
   },
   "deno-fs-ensure_dir": {
     "prefix": "deno-fs-ensure_dir",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fs/ensure_dir.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fs/ensure_dir.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fs/ensure_dir.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fs/ensure_dir.ts'"
   },
   "deno-fs-ensure_file": {
     "prefix": "deno-fs-ensure_file",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fs/ensure_file.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fs/ensure_file.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fs/ensure_file.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fs/ensure_file.ts'"
   },
   "deno-fs-ensure_link": {
     "prefix": "deno-fs-ensure_link",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fs/ensure_link.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fs/ensure_link.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fs/ensure_link.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fs/ensure_link.ts'"
   },
   "deno-fs-ensure_symlink": {
     "prefix": "deno-fs-ensure_symlink",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fs/ensure_symlink.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fs/ensure_symlink.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fs/ensure_symlink.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fs/ensure_symlink.ts'"
   },
   "deno-fs-eol": {
     "prefix": "deno-fs-eol",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fs/eol.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fs/eol.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fs/eol.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fs/eol.ts'"
   },
   "deno-fs-exists": {
     "prefix": "deno-fs-exists",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fs/exists.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fs/exists.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fs/exists.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fs/exists.ts'"
   },
   "deno-fs-expand_glob": {
     "prefix": "deno-fs-expand_glob",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fs/expand_glob.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fs/expand_glob.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fs/expand_glob.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fs/expand_glob.ts'"
   },
   "deno-fs-mod": {
     "prefix": "deno-fs-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fs/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fs/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fs/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fs/mod.ts'"
   },
   "deno-fs-move": {
     "prefix": "deno-fs-move",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fs/move.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fs/move.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fs/move.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fs/move.ts'"
   },
   "deno-fs-test": {
     "prefix": "deno-fs-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fs/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fs/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fs/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fs/test.ts'"
   },
   "deno-fs-walk": {
     "prefix": "deno-fs-walk",
     "body": [
-      "import { $1 } from 'https://deno.land/std/fs/walk.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/fs/walk.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/fs/walk.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/fs/walk.ts'"
   },
   "deno-hash-fnv": {
     "prefix": "deno-hash-fnv",
     "body": [
-      "import { $1 } from 'https://deno.land/std/hash/fnv.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/hash/fnv.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/hash/fnv.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/hash/fnv.ts'"
   },
   "deno-hash-hasher": {
     "prefix": "deno-hash-hasher",
     "body": [
-      "import { $1 } from 'https://deno.land/std/hash/hasher.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/hash/hasher.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/hash/hasher.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/hash/hasher.ts'"
   },
   "deno-hash-md5": {
     "prefix": "deno-hash-md5",
     "body": [
-      "import { $1 } from 'https://deno.land/std/hash/md5.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/hash/md5.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/hash/md5.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/hash/md5.ts'"
   },
   "deno-hash-mod": {
     "prefix": "deno-hash-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/hash/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/hash/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/hash/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/hash/mod.ts'"
   },
   "deno-hash-sha1": {
     "prefix": "deno-hash-sha1",
     "body": [
-      "import { $1 } from 'https://deno.land/std/hash/sha1.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/hash/sha1.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/hash/sha1.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/hash/sha1.ts'"
   },
   "deno-hash-sha256": {
     "prefix": "deno-hash-sha256",
     "body": [
-      "import { $1 } from 'https://deno.land/std/hash/sha256.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/hash/sha256.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/hash/sha256.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/hash/sha256.ts'"
   },
   "deno-hash-sha3": {
     "prefix": "deno-hash-sha3",
     "body": [
-      "import { $1 } from 'https://deno.land/std/hash/sha3.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/hash/sha3.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/hash/sha3.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/hash/sha3.ts'"
   },
   "deno-hash-sha512": {
     "prefix": "deno-hash-sha512",
     "body": [
-      "import { $1 } from 'https://deno.land/std/hash/sha512.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/hash/sha512.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/hash/sha512.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/hash/sha512.ts'"
   },
   "deno-hash-test": {
     "prefix": "deno-hash-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/hash/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/hash/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/hash/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/hash/test.ts'"
   },
   "deno-http-bench": {
     "prefix": "deno-http-bench",
     "body": [
-      "import { $1 } from 'https://deno.land/std/http/bench.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/http/bench.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/http/bench.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/http/bench.ts'"
   },
   "deno-http-cookie": {
     "prefix": "deno-http-cookie",
     "body": [
-      "import { $1 } from 'https://deno.land/std/http/cookie.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/http/cookie.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/http/cookie.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/http/cookie.ts'"
   },
   "deno-http-file_server": {
     "prefix": "deno-http-file_server",
     "body": [
-      "import { $1 } from 'https://deno.land/std/http/file_server.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/http/file_server.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/http/file_server.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/http/file_server.ts'"
   },
   "deno-http-http_status": {
     "prefix": "deno-http-http_status",
     "body": [
-      "import { $1 } from 'https://deno.land/std/http/http_status.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/http/http_status.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/http/http_status.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/http/http_status.ts'"
   },
   "deno-http-mod": {
     "prefix": "deno-http-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/http/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/http/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/http/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/http/mod.ts'"
   },
   "deno-http-racing_server": {
     "prefix": "deno-http-racing_server",
     "body": [
-      "import { $1 } from 'https://deno.land/std/http/racing_server.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/http/racing_server.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/http/racing_server.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/http/racing_server.ts'"
   },
   "deno-http-server": {
     "prefix": "deno-http-server",
     "body": [
-      "import { $1 } from 'https://deno.land/std/http/server.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/http/server.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/http/server.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/http/server.ts'"
   },
   "deno-http-test": {
     "prefix": "deno-http-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/http/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/http/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/http/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/http/test.ts'"
   },
   "deno-io-buffer": {
     "prefix": "deno-io-buffer",
     "body": [
-      "import { $1 } from 'https://deno.land/std/io/buffer.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/io/buffer.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/io/buffer.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/io/buffer.ts'"
   },
   "deno-io-bufio": {
     "prefix": "deno-io-bufio",
     "body": [
-      "import { $1 } from 'https://deno.land/std/io/bufio.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/io/bufio.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/io/bufio.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/io/bufio.ts'"
   },
   "deno-io-ioutil": {
     "prefix": "deno-io-ioutil",
     "body": [
-      "import { $1 } from 'https://deno.land/std/io/ioutil.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/io/ioutil.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/io/ioutil.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/io/ioutil.ts'"
   },
   "deno-io-mod": {
     "prefix": "deno-io-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/io/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/io/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/io/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/io/mod.ts'"
   },
   "deno-io-readers": {
     "prefix": "deno-io-readers",
     "body": [
-      "import { $1 } from 'https://deno.land/std/io/readers.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/io/readers.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/io/readers.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/io/readers.ts'"
   },
   "deno-io-streams": {
     "prefix": "deno-io-streams",
     "body": [
-      "import { $1 } from 'https://deno.land/std/io/streams.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/io/streams.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/io/streams.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/io/streams.ts'"
   },
   "deno-io-test": {
     "prefix": "deno-io-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/io/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/io/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/io/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/io/test.ts'"
   },
   "deno-io-util": {
     "prefix": "deno-io-util",
     "body": [
-      "import { $1 } from 'https://deno.land/std/io/util.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/io/util.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/io/util.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/io/util.ts'"
   },
   "deno-io-writers": {
     "prefix": "deno-io-writers",
     "body": [
-      "import { $1 } from 'https://deno.land/std/io/writers.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/io/writers.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/io/writers.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/io/writers.ts'"
   },
   "deno-log-handlers": {
     "prefix": "deno-log-handlers",
     "body": [
-      "import { $1 } from 'https://deno.land/std/log/handlers.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/log/handlers.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/log/handlers.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/log/handlers.ts'"
   },
   "deno-log-levels": {
     "prefix": "deno-log-levels",
     "body": [
-      "import { $1 } from 'https://deno.land/std/log/levels.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/log/levels.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/log/levels.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/log/levels.ts'"
   },
   "deno-log-logger": {
     "prefix": "deno-log-logger",
     "body": [
-      "import { $1 } from 'https://deno.land/std/log/logger.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/log/logger.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/log/logger.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/log/logger.ts'"
   },
   "deno-log-mod": {
     "prefix": "deno-log-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/log/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/log/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/log/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/log/mod.ts'"
   },
   "deno-log-test": {
     "prefix": "deno-log-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/log/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/log/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/log/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/log/test.ts'"
   },
   "deno-mime-mod": {
     "prefix": "deno-mime-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/mime/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/mime/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/mime/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/mime/mod.ts'"
   },
   "deno-mime-multipart": {
     "prefix": "deno-mime-multipart",
     "body": [
-      "import { $1 } from 'https://deno.land/std/mime/multipart.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/mime/multipart.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/mime/multipart.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/mime/multipart.ts'"
   },
   "deno-mime-test": {
     "prefix": "deno-mime-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/mime/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/mime/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/mime/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/mime/test.ts'"
   },
   "deno-node-assert": {
     "prefix": "deno-node-assert",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/assert.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/assert.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/assert.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/assert.ts'"
   },
   "deno-node-assertion_error": {
     "prefix": "deno-node-assertion_error",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/assertion_error.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/assertion_error.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/assertion_error.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/assertion_error.ts'"
   },
   "deno-node-buffer": {
     "prefix": "deno-node-buffer",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/buffer.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/buffer.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/buffer.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/buffer.ts'"
   },
   "deno-node-cli": {
     "prefix": "deno-node-cli",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/cli.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/cli.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/cli.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/cli.ts'"
   },
   "deno-node-constants": {
     "prefix": "deno-node-constants",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/constants.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/constants.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/constants.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/constants.ts'"
   },
   "deno-node-crypto": {
     "prefix": "deno-node-crypto",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/crypto.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/crypto.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/crypto.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/crypto.ts'"
   },
   "deno-node-events": {
     "prefix": "deno-node-events",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/events.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/events.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/events.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/events.ts'"
   },
   "deno-node-fs": {
     "prefix": "deno-node-fs",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/fs.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/fs.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/fs.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/fs.ts'"
   },
   "deno-node-global.d": {
     "prefix": "deno-node-global.d",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/global.d.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/global.d.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/global.d.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/global.d.ts'"
   },
   "deno-node-global": {
     "prefix": "deno-node-global",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/global.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/global.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/global.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/global.ts'"
   },
   "deno-node-module": {
     "prefix": "deno-node-module",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/module.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/module.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/module.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/module.ts'"
   },
   "deno-node-os": {
     "prefix": "deno-node-os",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/os.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/os.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/os.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/os.ts'"
   },
   "deno-node-path": {
     "prefix": "deno-node-path",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/path.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/path.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/path.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/path.ts'"
   },
   "deno-node-process": {
     "prefix": "deno-node-process",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/process.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/process.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/process.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/process.ts'"
   },
   "deno-node-querystring": {
     "prefix": "deno-node-querystring",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/querystring.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/querystring.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/querystring.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/querystring.ts'"
   },
   "deno-node-stream": {
     "prefix": "deno-node-stream",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/stream.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/stream.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/stream.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/stream.ts'"
   },
   "deno-node-string_decoder": {
     "prefix": "deno-node-string_decoder",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/string_decoder.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/string_decoder.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/string_decoder.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/string_decoder.ts'"
   },
   "deno-node-timers": {
     "prefix": "deno-node-timers",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/timers.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/timers.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/timers.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/timers.ts'"
   },
   "deno-node-tty": {
     "prefix": "deno-node-tty",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/tty.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/tty.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/tty.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/tty.ts'"
   },
   "deno-node-url": {
     "prefix": "deno-node-url",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/url.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/url.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/url.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/url.ts'"
   },
   "deno-node-util": {
     "prefix": "deno-node-util",
     "body": [
-      "import { $1 } from 'https://deno.land/std/node/util.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/node/util.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/node/util.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/node/util.ts'"
   },
   "deno-path-common": {
     "prefix": "deno-path-common",
     "body": [
-      "import { $1 } from 'https://deno.land/std/path/common.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/path/common.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/path/common.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/path/common.ts'"
   },
   "deno-path-glob": {
     "prefix": "deno-path-glob",
     "body": [
-      "import { $1 } from 'https://deno.land/std/path/glob.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/path/glob.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/path/glob.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/path/glob.ts'"
   },
   "deno-path-mod": {
     "prefix": "deno-path-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/path/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/path/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/path/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/path/mod.ts'"
   },
   "deno-path-posix": {
     "prefix": "deno-path-posix",
     "body": [
-      "import { $1 } from 'https://deno.land/std/path/posix.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/path/posix.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/path/posix.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/path/posix.ts'"
   },
   "deno-path-separator": {
     "prefix": "deno-path-separator",
     "body": [
-      "import { $1 } from 'https://deno.land/std/path/separator.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/path/separator.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/path/separator.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/path/separator.ts'"
   },
   "deno-path-test": {
     "prefix": "deno-path-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/path/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/path/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/path/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/path/test.ts'"
   },
   "deno-path-win32": {
     "prefix": "deno-path-win32",
     "body": [
-      "import { $1 } from 'https://deno.land/std/path/win32.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/path/win32.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/path/win32.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/path/win32.ts'"
   },
   "deno-permissions-mod": {
     "prefix": "deno-permissions-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/permissions/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/permissions/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/permissions/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/permissions/mod.ts'"
   },
   "deno-permissions-test": {
     "prefix": "deno-permissions-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/permissions/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/permissions/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/permissions/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/permissions/test.ts'"
   },
   "deno-signal-mod": {
     "prefix": "deno-signal-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/signal/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/signal/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/signal/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/signal/mod.ts'"
   },
   "deno-signal-test": {
     "prefix": "deno-signal-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/signal/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/signal/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/signal/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/signal/test.ts'"
   },
   "deno-testing-asserts": {
     "prefix": "deno-testing-asserts",
     "body": [
-      "import { $1 } from 'https://deno.land/std/testing/asserts.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/testing/asserts.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/testing/asserts.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/testing/asserts.ts'"
   },
   "deno-testing-bench": {
     "prefix": "deno-testing-bench",
     "body": [
-      "import { $1 } from 'https://deno.land/std/testing/bench.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/testing/bench.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/testing/bench.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/testing/bench.ts'"
   },
   "deno-testing-bench_example": {
     "prefix": "deno-testing-bench_example",
     "body": [
-      "import { $1 } from 'https://deno.land/std/testing/bench_example.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/testing/bench_example.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/testing/bench_example.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/testing/bench_example.ts'"
   },
   "deno-textproto-mod": {
     "prefix": "deno-textproto-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/textproto/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/textproto/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/textproto/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/textproto/mod.ts'"
   },
   "deno-textproto-test": {
     "prefix": "deno-textproto-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/textproto/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/textproto/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/textproto/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/textproto/test.ts'"
   },
   "deno-uuid-mod": {
     "prefix": "deno-uuid-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/uuid/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/uuid/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/uuid/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/uuid/mod.ts'"
   },
   "deno-uuid-test": {
     "prefix": "deno-uuid-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/uuid/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/uuid/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/uuid/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/uuid/test.ts'"
   },
   "deno-uuid-v1": {
     "prefix": "deno-uuid-v1",
     "body": [
-      "import { $1 } from 'https://deno.land/std/uuid/v1.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/uuid/v1.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/uuid/v1.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/uuid/v1.ts'"
   },
   "deno-uuid-v4": {
     "prefix": "deno-uuid-v4",
     "body": [
-      "import { $1 } from 'https://deno.land/std/uuid/v4.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/uuid/v4.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/uuid/v4.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/uuid/v4.ts'"
   },
   "deno-uuid-v5": {
     "prefix": "deno-uuid-v5",
     "body": [
-      "import { $1 } from 'https://deno.land/std/uuid/v5.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/uuid/v5.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/uuid/v5.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/uuid/v5.ts'"
   },
   "deno-wasi-snapshot_preview1": {
     "prefix": "deno-wasi-snapshot_preview1",
     "body": [
-      "import { $1 } from 'https://deno.land/std/wasi/snapshot_preview1.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/wasi/snapshot_preview1.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/wasi/snapshot_preview1.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/wasi/snapshot_preview1.ts'"
   },
   "deno-wasi-snapshot_preview1_test_runner": {
     "prefix": "deno-wasi-snapshot_preview1_test_runner",
     "body": [
-      "import { $1 } from 'https://deno.land/std/wasi/snapshot_preview1_test_runner.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/wasi/snapshot_preview1_test_runner.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/wasi/snapshot_preview1_test_runner.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/wasi/snapshot_preview1_test_runner.ts'"
   },
   "deno-ws-example_server": {
     "prefix": "deno-ws-example_server",
     "body": [
-      "import { $1 } from 'https://deno.land/std/ws/example_server.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/ws/example_server.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/ws/example_server.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/ws/example_server.ts'"
   },
   "deno-ws-mod": {
     "prefix": "deno-ws-mod",
     "body": [
-      "import { $1 } from 'https://deno.land/std/ws/mod.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/ws/mod.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/ws/mod.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/ws/mod.ts'"
   },
   "deno-ws-test": {
     "prefix": "deno-ws-test",
     "body": [
-      "import { $1 } from 'https://deno.land/std/ws/test.ts'"
+      "import { $1 } from 'https://deno.land/std@0.92.0/ws/test.ts'"
     ],
-    "description": "import { $1 } from 'https://deno.land/std/ws/test.ts'"
+    "description": "import { $1 } from 'https://deno.land/std@0.92.0/ws/test.ts'"
+  },
+  "deno-ex-archive-tar": {
+    "prefix": "deno-ex-archive-tar",
+    "body": [
+      "import { Tar } from \"https://deno.land/std@0.92.0/archive/tar.ts\";",
+      "import { Buffer } from \"https://deno.land/std@0.92.0/io/buffer.ts\";",
+      "",
+      "const tar = new Tar();",
+      "const content = new TextEncoder().encode(\"Deno.land\");",
+      "await tar.append(\"deno.txt\", {",
+      "  reader: new Buffer(content),",
+      "  contentSize: content.byteLength,",
+      "});",
+      "",
+      "// Or specifying a filePath.",
+      "await tar.append(\"land.txt\", {",
+      "  filePath: \"./land.txt\",",
+      "});",
+      "",
+      "// use tar.getReader() to read the contents.",
+      "",
+      "const writer = await Deno.open(\"./out.tar\", { write: true, create: true });",
+      "await Deno.copy(tar.getReader(), writer);",
+      "writer.close();"
+    ],
+    "description": "deno-ex-archive-tar"
+  },
+  "deno-ex-archive-untar": {
+    "prefix": "deno-ex-archive-untar",
+    "body": [
+      "import { Untar } from \"https://deno.land/std@0.92.0/archive/tar.ts\";",
+      "import { ensureFile } from \"https://deno.land/std@0.92.0/fs/ensure_file.ts\";",
+      "import { ensureDir } from \"https://deno.land/std@0.92.0/fs/ensure_dir.ts\";",
+      "",
+      "const reader = await Deno.open(\"./out.tar\", { read: true });",
+      "const untar = new Untar(reader);",
+      "",
+      "for await (const entry of untar) {",
+      "  console.log(entry); // metadata",
+      "  /*",
+      "    fileName: \"archive/deno.txt\",",
+      "    fileMode: 33204,",
+      "    mtime: 1591657305,",
+      "    uid: 0,",
+      "    gid: 0,",
+      "    size: 24400,",
+      "    type: 'file'",
+      "  */",
+      "",
+      "  if (entry.type === \"directory\") {",
+      "    await ensureDir(entry.fileName);",
+      "    continue;",
+      "  }",
+      "",
+      "  await ensureFile(entry.fileName);",
+      "  const file = await Deno.open(entry.fileName, { write: true });",
+      "  // <entry> is a reader.",
+      "  await Deno.copy(entry, file);",
+      "}",
+      "reader.close();"
+    ],
+    "description": "deno-ex-archive-untar"
+  },
+  "deno-ex-async-deferred": {
+    "prefix": "deno-ex-async-deferred",
+    "body": [
+      "import { deferred } from \"https://deno.land/std/async/mod.ts\";",
+      "",
+      "const p = deferred<number>();",
+      "// ...",
+      "p.resolve(42);"
+    ],
+    "description": "deno-ex-async-deferred"
+  },
+  "deno-ex-async-delay": {
+    "prefix": "deno-ex-async-delay",
+    "body": [
+      "import { delay } from \"https://deno.land/std/async/mod.ts\";",
+      "",
+      "// ...",
+      "const delayedPromise = delay(100);",
+      "const result = await delayedPromise;",
+      "// ..."
+    ],
+    "description": "deno-ex-async-delay"
+  },
+  "deno-ex-async-muxAsyncIterator": {
+    "prefix": "deno-ex-async-muxAsyncIterator",
+    "body": [
+      "import { MuxAsyncIterator } from \"https://deno.land/std/async/mod.ts\";",
+      "",
+      "async function* gen123(): AsyncIterableIterator<number> {",
+      "  yield 1;",
+      "  yield 2;",
+      "  yield 3;",
+      "}",
+      "",
+      "async function* gen456(): AsyncIterableIterator<number> {",
+      "  yield 4;",
+      "  yield 5;",
+      "  yield 6;",
+      "}",
+      "",
+      "const mux = new MuxAsyncIterator<number>();",
+      "mux.add(gen123());",
+      "mux.add(gen456());",
+      "for await (const value of mux) {",
+      "  // ...",
+      "}",
+      "// .."
+    ],
+    "description": "deno-ex-async-muxAsyncIterator"
+  },
+  "deno-ex-async-pooledMap": {
+    "prefix": "deno-ex-async-pooledMap",
+    "body": [
+      "import { pooledMap } from \"https://deno.land/std/async/mod.ts\";",
+      "",
+      "const results = pooledMap(",
+      "  2,",
+      "  [1, 2, 3],",
+      "  (i) => new Promise((r) => setTimeout(() => r(i), 1000)),",
+      ");",
+      "",
+      "for await (const value of results) {",
+      "  // ...",
+      "}"
+    ],
+    "description": "deno-ex-async-pooledMap"
+  },
+  "deno-ex-bytes-indexOf": {
+    "prefix": "deno-ex-bytes-indexOf",
+    "body": [
+      "import { indexOf } from \"https://deno.land/std@0.92.0/bytes/mod.ts\";",
+      "",
+      "indexOf(",
+      "  new Uint8Array([1, 2, 0, 1, 2, 0, 1, 2, 0, 1, 3]),",
+      "  new Uint8Array([0, 1, 2]),",
+      "); // => returns 2",
+      "",
+      "indexOf(",
+      "  new Uint8Array([1, 2, 0, 1, 2, 0, 1, 2, 0, 1, 3]),",
+      "  new Uint8Array([0, 1, 2]),",
+      "  3,",
+      "); // => returns 5"
+    ],
+    "description": "deno-ex-bytes-indexOf"
+  },
+  "deno-ex-bytes-lastIndexOf": {
+    "prefix": "deno-ex-bytes-lastIndexOf",
+    "body": [
+      "import { lastIndexOf } from \"https://deno.land/std@0.92.0/bytes/mod.ts\";",
+      "",
+      "lastIndexOf(",
+      "  new Uint8Array([0, 1, 2, 3, 3, 0, 1, 2]),",
+      "  new Uint8Array([0, 1, 2]),",
+      "); // => returns 5",
+      "",
+      "lastIndexOf(",
+      "  new Uint8Array([0, 1, 2, 3, 3, 0, 1, 2]),",
+      "  new Uint8Array([0, 1, 2]),",
+      "  3,",
+      "); // => returns 0"
+    ],
+    "description": "deno-ex-bytes-lastIndexOf"
+  },
+  "deno-ex-bytes-equals": {
+    "prefix": "deno-ex-bytes-equals",
+    "body": [
+      "import { equals } from \"https://deno.land/std@0.92.0/bytes/mod.ts\";",
+      "",
+      "equals(new Uint8Array([0, 1, 2, 3]), new Uint8Array([0, 1, 2, 3])); // returns true",
+      "equals(new Uint8Array([0, 1, 2, 3]), new Uint8Array([0, 1, 2, 4])); // returns fals"
+    ],
+    "description": "deno-ex-bytes-equals"
+  },
+  "deno-ex-bytes-startsWith": {
+    "prefix": "deno-ex-bytes-startsWith",
+    "body": [
+      "import { startsWith } from \"https://deno.land/std@0.92.0/bytes/mod.ts\";",
+      "",
+      "startsWith(new Uint8Array([0, 1, 2]), new Uint8Array([0, 1])); // returns true",
+      "startsWith(new Uint8Array([0, 1, 2]), new Uint8Array([1, 2])); // returns false"
+    ],
+    "description": "deno-ex-bytes-startsWith"
+  },
+  "deno-ex-bytes-endsWith": {
+    "prefix": "deno-ex-bytes-endsWith",
+    "body": [
+      "import { endsWith } from \"https://deno.land/std@0.92.0/bytes/mod.ts\";",
+      "",
+      "endsWith(new Uint8Array([0, 1, 2]), new Uint8Array([0, 1])); // returns false",
+      "endsWith(new Uint8Array([0, 1, 2]), new Uint8Array([1, 2])); // returns true"
+    ],
+    "description": "deno-ex-bytes-endsWith"
+  },
+  "deno-ex-bytes-repeat": {
+    "prefix": "deno-ex-bytes-repeat",
+    "body": [
+      "import { repeat } from \"https://deno.land/std@0.92.0/bytes/mod.ts\";",
+      "",
+      "repeat(new Uint8Array([1]), 3); // returns Uint8Array(3) [ 1, 1, 1 ]"
+    ],
+    "description": "deno-ex-bytes-repeat"
+  },
+  "deno-ex-bytes-concat": {
+    "prefix": "deno-ex-bytes-concat",
+    "body": [
+      "import { concat } from \"https://deno.land/std@0.92.0/bytes/mod.ts\";",
+      "",
+      "concat(new Uint8Array([1, 2]), new Uint8Array([3, 4])); // returns Uint8Array(4) [ 1, 2, 3, 4 ]",
+      "",
+      "concat(",
+      "  new Uint8Array([1, 2]),",
+      "  new Uint8Array([3, 4]),",
+      "  new Uint8Array([5, 6]),",
+      "  new Uint8Array([7, 8]),",
+      "); // => returns Uint8Array(8) [ 1, 2, 3, 4, 5, 6, 7, 8 ]"
+    ],
+    "description": "deno-ex-bytes-concat"
+  },
+  "deno-ex-bytes-contains": {
+    "prefix": "deno-ex-bytes-contains",
+    "body": [
+      "import { contains } from \"https://deno.land/std@0.92.0/bytes/mod.ts\";",
+      "",
+      "contains(",
+      "  new Uint8Array([1, 2, 0, 1, 2, 0, 2, 1, 3]),",
+      "  new Uint8Array([0, 1, 2]),",
+      "); // => returns true",
+      "",
+      "contains(",
+      "  new Uint8Array([1, 2, 0, 1, 2, 0, 2, 1, 3]),",
+      "  new Uint8Array([2, 2]),",
+      "); // => returns false"
+    ],
+    "description": "deno-ex-bytes-contains"
+  },
+  "deno-ex-bytes-copy": {
+    "prefix": "deno-ex-bytes-copy",
+    "body": [
+      "import { copy } from \"https://deno.land/std@0.92.0/bytes/mod.ts\";",
+      "",
+      "const dest = new Uint8Array(4);",
+      "const src = Uint8Array.of(1, 2, 3, 4);",
+      "const len = copy(src, dest); // returns len = 4"
+    ],
+    "description": "deno-ex-bytes-copy"
+  },
+  "deno-ex-datetime-parse": {
+    "prefix": "deno-ex-datetime-parse",
+    "body": [
+      "import { parse } from 'https://deno.land/std@0.92.0/datetime/mod.ts'",
+      "",
+      "parse(\"20-01-2019\", \"dd-MM-yyyy\") // output : new Date(2019, 0, 20)",
+      "parse(\"2019-01-20\", \"yyyy-MM-dd\") // output : new Date(2019, 0, 20)",
+      "parse(\"20.01.2019\", \"dd.MM.yyyy\") // output : new Date(2019, 0, 20)",
+      "parse(\"01-20-2019 16:34\", \"MM-dd-yyyy HH:mm\") // output : new Date(2019, 0, 20, 16, 34)",
+      "parse(\"01-20-2019 04:34 PM\", \"MM-dd-yyyy hh:mm a\") // output : new Date(2019, 0, 20, 16, 34)",
+      "parse(\"16:34 01-20-2019\", \"HH:mm MM-dd-yyyy\") // output : new Date(2019, 0, 20, 16, 34)",
+      "parse(\"01-20-2019 16:34:23.123\", \"MM-dd-yyyy HH:mm:ss.SSS\") // output : new Date(2019, 0, 20, 16, 34, 23, 123)",
+      "..."
+    ],
+    "description": "deno-ex-datetime-parse"
+  },
+  "deno-ex-datetime-format": {
+    "prefix": "deno-ex-datetime-format",
+    "body": [
+      "import { format } from \"https://deno.land/std@0.92.0/datetime/mod.ts\";",
+      "",
+      "format(new Date(2019, 0, 20), \"dd-MM-yyyy\"); // output : \"20-01-2019\"",
+      "format(new Date(2019, 0, 20), \"yyyy-MM-dd\"); // output : \"2019-01-20\"",
+      "format(new Date(2019, 0, 20), \"dd.MM.yyyy\"); // output : \"2019-01-20\"",
+      "format(new Date(2019, 0, 20, 16, 34), \"MM-dd-yyyy HH:mm\"); // output : \"01-20-2019 16:34\"",
+      "format(new Date(2019, 0, 20, 16, 34), \"MM-dd-yyyy hh:mm a\"); // output : \"01-20-2019 04:34 PM\"",
+      "format(new Date(2019, 0, 20, 16, 34), \"HH:mm MM-dd-yyyy\"); // output : \"16:34 01-20-2019\"",
+      "format(new Date(2019, 0, 20, 16, 34, 23, 123), \"MM-dd-yyyy HH:mm:ss.SSS\"); // output : \"01-20-2019 16:34:23.123\"",
+      "format(new Date(2019, 0, 20), \"'today:' yyyy-MM-dd\"); // output : \"today: 2019-01-20\""
+    ],
+    "description": "deno-ex-datetime-format"
+  },
+  "deno-ex-datetime-dayOfYear": {
+    "prefix": "deno-ex-datetime-dayOfYear",
+    "body": [
+      "import { dayOfYear } from \"https://deno.land/std@0.92.0/datetime/mod.ts\";",
+      "",
+      "dayOfYear(new Date(\"2019-03-11T03:24:00\")); // output: 70"
+    ],
+    "description": "deno-ex-datetime-dayOfYear"
+  },
+  "deno-ex-datetime-weekOfYear": {
+    "prefix": "deno-ex-datetime-weekOfYear",
+    "body": [
+      "import { weekOfYear } from \"https://deno.land/std@0.92.0/datetime/mod.ts\";",
+      "",
+      "weekOfYear(new Date(\"2020-12-28T03:24:00\")); // Returns 53"
+    ],
+    "description": "deno-ex-datetime-weekOfYear"
+  },
+  "deno-ex-datetime-toIMF": {
+    "prefix": "deno-ex-datetime-toIMF",
+    "body": [
+      "import { toIMF } from \"https://deno.land/std@0.92.0/datetime/mod.ts\";",
+      "",
+      "toIMF(new Date(0)); // => returns \"Thu, 01 Jan 1970 00:00:00 GMT\""
+    ],
+    "description": "deno-ex-datetime-toIMF"
+  },
+  "deno-ex-datetime-isLeap": {
+    "prefix": "deno-ex-datetime-isLeap",
+    "body": [
+      "import { isLeap } from \"https://deno.land/std@0.92.0/datetime/mod.ts\";",
+      "",
+      "isLeap(new Date(\"1970-01-01\")); // => returns false",
+      "isLeap(new Date(\"1972-01-01\")); // => returns true",
+      "isLeap(new Date(\"2000-01-01\")); // => returns true",
+      "isLeap(new Date(\"2100-01-01\")); // => returns false",
+      "isLeap(1972); // => returns true"
+    ],
+    "description": "deno-ex-datetime-isLeap"
+  },
+  "deno-ex-datetime-difference": {
+    "prefix": "deno-ex-datetime-difference",
+    "body": [
+      "import { difference } from \"https://deno.land/std@0.92.0/datetime/mod.ts\";",
+      "",
+      "const date0 = new Date(\"2018-05-14\");",
+      "const date1 = new Date(\"2020-05-13\");",
+      "",
+      "difference(date0, date1, { units: [\"days\", \"months\", \"years\"] });",
+      "// => returns { days: 730, months: 23, years: 1 }",
+      "",
+      "difference(date0, date1);",
+      "// => returns {",
+      "//   milliseconds: 63072000000,",
+      "//   seconds: 63072000,",
+      "//   minutes: 1051200,",
+      "//   hours: 17520,",
+      "//   days: 730,",
+      "//   weeks: 104,",
+      "//   months: 23,",
+      "//   quarters: 5,",
+      "//   years: 1",
+      "// }"
+    ],
+    "description": "deno-ex-datetime-difference"
+  },
+  "deno-ex-datetime-SECOND": {
+    "prefix": "deno-ex-datetime-SECOND",
+    "body": [
+      "import { SECOND } from \"https://deno.land/std@0.92.0/datetime/mod.ts\";",
+      "",
+      "console.log(SECOND); // => 1000"
+    ],
+    "description": "deno-ex-datetime-SECOND"
+  },
+  "deno-ex-datetime-MINUTE": {
+    "prefix": "deno-ex-datetime-MINUTE",
+    "body": [
+      "import { MINUTE } from \"https://deno.land/std@0.92.0/datetime/mod.ts\";",
+      "",
+      "console.log(MINUTE); // => 60000 (60 * 1000)"
+    ],
+    "description": "deno-ex-datetime-MINUTE"
+  },
+  "deno-ex-datetime-HOUR": {
+    "prefix": "deno-ex-datetime-HOUR",
+    "body": [
+      "import { HOUR } from \"https://deno.land/std@0.92.0/datetime/mod.ts\";",
+      "",
+      "console.log(HOUR); // => 3600000 (60 * 60 * 1000)"
+    ],
+    "description": "deno-ex-datetime-HOUR"
+  },
+  "deno-ex-datetime-DAY": {
+    "prefix": "deno-ex-datetime-DAY",
+    "body": [
+      "import { DAY } from \"https://deno.land/std@0.92.0/datetime/mod.ts\";",
+      "",
+      "console.log(DAY); // => 86400000 (24 * 60 * 60 * 1000)"
+    ],
+    "description": "deno-ex-datetime-DAY"
+  },
+  "deno-ex-datetime-WEEK": {
+    "prefix": "deno-ex-datetime-WEEK",
+    "body": [
+      "import { WEEK } from \"https://deno.land/std@0.92.0/datetime/mod.ts\";",
+      "",
+      "console.log(WEEK); // => 604800000 (7 * 24 * 60 * 60 * 1000)"
+    ],
+    "description": "deno-ex-datetime-WEEK"
+  },
+  "deno-ex-fs-emptyDir": {
+    "prefix": "deno-ex-fs-emptyDir",
+    "body": [
+      "import {",
+      "  emptyDir,",
+      "  emptyDirSync,",
+      "} from \"https://deno.land/std@0.92.0/fs/mod.ts\";",
+      "",
+      "emptyDir(\"./foo\"); // returns a promise",
+      "emptyDirSync(\"./foo\"); // void"
+    ],
+    "description": "deno-ex-fs-emptyDir"
+  },
+  "deno-ex-fs-ensureDir": {
+    "prefix": "deno-ex-fs-ensureDir",
+    "body": [
+      "import {",
+      "  ensureDir,",
+      "  ensureDirSync,",
+      "} from \"https://deno.land/std@0.92.0/fs/mod.ts\";",
+      "",
+      "ensureDir(\"./bar\"); // returns a promise",
+      "ensureDirSync(\"./ensureDirSync\"); // void"
+    ],
+    "description": "deno-ex-fs-ensureDir"
+  },
+  "deno-ex-fs-ensureFile": {
+    "prefix": "deno-ex-fs-ensureFile",
+    "body": [
+      "import {",
+      "  ensureFile,",
+      "  ensureFileSync,",
+      "} from \"https://deno.land/std@0.92.0/fs/mod.ts\";",
+      "",
+      "ensureFile(\"./folder/targetFile.dat\"); // returns promise",
+      "ensureFileSync(\"./folder/targetFile.dat\"); // void"
+    ],
+    "description": "deno-ex-fs-ensureFile"
+  },
+  "deno-ex-fs-ensureSymlink": {
+    "prefix": "deno-ex-fs-ensureSymlink",
+    "body": [
+      "import {",
+      "  ensureSymlink,",
+      "  ensureSymlinkSync,",
+      "} from \"https://deno.land/std@0.92.0/fs/mod.ts\";",
+      "",
+      "ensureSymlink(\"./folder/targetFile.dat\", \"./folder/targetFile.link.dat\"); // returns promise",
+      "ensureSymlinkSync(\"./folder/targetFile.dat\", \"./folder/targetFile.link.dat\"); // void"
+    ],
+    "description": "deno-ex-fs-ensureSymlink"
+  },
+  "deno-ex-fs-EOL": {
+    "prefix": "deno-ex-fs-EOL",
+    "body": [
+      "import { format, detect, EOL } from \"https://deno.land/std@0.92.0/fs/mod.ts\";",
+      "",
+      "const CRLFinput = \"deno\\r\\nis not\\r\\nnode\";",
+      "const Mixedinput = \"deno\\nis not\\r\\nnode\";",
+      "const LFinput = \"deno\\nis not\\nnode\";",
+      "const NoNLinput = \"deno is not node\";",
+      "",
+      "detect(LFinput); // output EOL.LF",
+      "detect(CRLFinput); // output EOL.CRLF",
+      "detect(Mixedinput); // output EOL.CRLF",
+      "detect(NoNLinput); // output null",
+      "",
+      "format(CRLFinput, EOL.LF); // output \"deno\\nis not\\nnode\"",
+      "..."
+    ],
+    "description": "deno-ex-fs-EOL"
+  },
+  "deno-ex-fs-exists": {
+    "prefix": "deno-ex-fs-exists",
+    "body": [
+      "import {",
+      "  exists,",
+      "  existsSync,",
+      "} from \"https://deno.land/std@0.92.0/fs/mod.ts\";",
+      "",
+      "exists(\"./foo\"); // returns a Promise<boolean>",
+      "existsSync(\"./foo\"); // returns boolean"
+    ],
+    "description": "deno-ex-fs-exists"
+  },
+  "deno-ex-fs-move": {
+    "prefix": "deno-ex-fs-move",
+    "body": [
+      "import { move, moveSync } from \"https://deno.land/std@0.92.0/fs/mod.ts\";",
+      "",
+      "move(\"./foo\", \"./bar\"); // returns a promise",
+      "moveSync(\"./foo\", \"./bar\"); // void",
+      "moveSync(\"./foo\", \"./existingFolder\", { overwrite: true });",
+      "// Will overwrite existingFolder"
+    ],
+    "description": "deno-ex-fs-move"
+  },
+  "deno-ex-fs-copy": {
+    "prefix": "deno-ex-fs-copy",
+    "body": [
+      "import { copy, copySync } from \"https://deno.land/std@0.92.0/fs/mod.ts\";",
+      "",
+      "copy(\"./foo\", \"./bar\"); // returns a promise",
+      "copySync(\"./foo\", \"./bar\"); // void",
+      "copySync(\"./foo\", \"./existingFolder\", { overwrite: true });",
+      "// Will overwrite existingFolder"
+    ],
+    "description": "deno-ex-fs-copy"
+  },
+  "deno-ex-fs-walk": {
+    "prefix": "deno-ex-fs-walk",
+    "body": [
+      "import { walk, walkSync } from \"https://deno.land/std@0.92.0/fs/mod.ts\";",
+      "",
+      "for (const entry of walkSync(\".\")) {",
+      "  console.log(entry.path);",
+      "}",
+      "",
+      "// Async",
+      "async function printFilesNames() {",
+      "  for await (const entry of walk(\".\")) {",
+      "    console.log(entry.path);",
+      "  }",
+      "}",
+      "",
+      "printFilesNames().then(() => console.log(\"Done!\"));"
+    ],
+    "description": "deno-ex-fs-walk"
+  },
+  "deno-ex-fs-expandGlob": {
+    "prefix": "deno-ex-fs-expandGlob",
+    "body": [
+      "import { expandGlob } from \"https://deno.land/std@0.92.0/fs/mod.ts\";",
+      "",
+      "for await (const file of expandGlob(\"**/*.ts\")) {",
+      "  console.log(file);",
+      "}"
+    ],
+    "description": "deno-ex-fs-expandGlob"
+  },
+  "deno-ex-fs-expandGlobSync": {
+    "prefix": "deno-ex-fs-expandGlobSync",
+    "body": [
+      "import { expandGlobSync } from \"https://deno.land/std@0.92.0/fs/mod.ts\";",
+      "",
+      "for (const file of expandGlobSync(\"**/*.ts\")) {",
+      "  console.log(file);",
+      "}"
+    ],
+    "description": "deno-ex-fs-expandGlobSync"
+  },
+  "deno-ex-flags": {
+    "prefix": "deno-ex-flags",
+    "body": [
+      "import { parse } from \"https://deno.land/std@0.92.0/flags/mod.ts\";",
+      "console.dir(parse(Deno.args, { \"--\": false }));",
+      "// output: { _: [ \"a\", \"arg1\" ] }",
+      "console.dir(parse(Deno.args, { \"--\": true }));",
+      "// output: { _: [], --: [ \"a\", \"arg1\" ] }"
+    ],
+    "description": "deno-ex-flags"
+  },
+  "deno-ex-fmt": {
+    "prefix": "deno-ex-fmt",
+    "body": [
+      "import {",
+      "  bgBlue,",
+      "  bgRgb24,",
+      "  bgRgb8,",
+      "  bold,",
+      "  italic,",
+      "  red,",
+      "  rgb24,",
+      "  rgb8,",
+      "} from \"https://deno.land/std@0.92.0/fmt/colors.ts\";",
+      "",
+      "console.log(bgBlue(italic(red(bold(\"Hello, World!\")))));",
+      "",
+      "// also supports 8bit colors",
+      "",
+      "console.log(rgb8(\"Hello, World!\", 42));",
+      "",
+      "console.log(bgRgb8(\"Hello, World!\", 42));",
+      "",
+      "// and 24bit rgb",
+      "",
+      "console.log(rgb24(\"Hello, World!\", {",
+      "  r: 41,",
+      "  g: 42,",
+      "  b: 43,",
+      "}));",
+      "",
+      "console.log(bgRgb24(\"Hello, World!\", {",
+      "  r: 41,",
+      "  g: 42,",
+      "  b: 43,",
+      "}));"
+    ],
+    "description": "deno-ex-fmt"
+  },
+  "deno-ex-hash": {
+    "prefix": "deno-ex-hash",
+    "body": [
+      "import { createHash } from \"https://deno.land/std@0.92.0/hash/mod.ts\";",
+      "",
+      "const hash = createHash(\"md5\");",
+      "hash.update(\"Your data here\");",
+      "const hashInBase64 = hash.toString(\"base64\"); // returns X+CE7kI/9+DHcJ6",
+      "const hashInHex = hash.toString(); // returns 5fe084ee423ff7e0c7709e9437cee89d"
+    ],
+    "description": "deno-ex-hash"
+  },
+  "deno-ex-http-server": {
+    "prefix": "deno-ex-http-server",
+    "body": [
+      "import { serve } from \"https://deno.land/std@0.92.0/http/server.ts\";",
+      "const server = serve({ port: 8000 });",
+      "console.log(\"http://localhost:8000/\");",
+      "for await (const req of server) {",
+      "  req.respond({ body: \"Hello World\\n\" });",
+      "}"
+    ],
+    "description": "deno-ex-http-server"
+  },
+  "deno-ex-http-cookie": {
+    "prefix": "deno-ex-http-cookie",
+    "body": [
+      "import { ServerRequest } from \"https://deno.land/std@0.92.0/http/server.ts\";",
+      "import { getCookies } from \"https://deno.land/std@0.92.0/http/cookie.ts\";",
+      "",
+      "let request = new ServerRequest();",
+      "request.headers = new Headers();",
+      "request.headers.set(\"Cookie\", \"full=of; tasty=chocolate\");",
+      "",
+      "const cookies = getCookies(request);",
+      "console.log(\"cookies:\", cookies);",
+      "// cookies: { full: \"of\", tasty: \"chocolate\" }"
+    ],
+    "description": "deno-ex-http-cookie"
+  },
+  "deno-ex-io-stringReader": {
+    "prefix": "deno-ex-io-stringReader",
+    "body": [
+      "import { StringReader } from \"https://deno.land/std@0.92.0/io/mod.ts\";",
+      "",
+      "const data = new Uint8Array(6);",
+      "const r = new StringReader(\"abcdef\");",
+      "const res0 = await r.read(data);",
+      "const res1 = await r.read(new Uint8Array(6));",
+      "",
+      "// Number of bytes read",
+      "console.log(res0); // 6",
+      "console.log(res1); // null, no byte left to read. EOL",
+      "",
+      "// text",
+      "",
+      "console.log(new TextDecoder().decode(data)); // abcdef"
+    ],
+    "description": "deno-ex-io-stringReader"
+  },
+  "deno-ex-io-stringWriter": {
+    "prefix": "deno-ex-io-stringWriter",
+    "body": [
+      "import {",
+      "  copyN,",
+      "  StringReader,",
+      "  StringWriter,",
+      "} from \"https://deno.land/std@0.92.0/io/mod.ts\";",
+      "",
+      "const w = new StringWriter(\"base\");",
+      "const r = new StringReader(\"0123456789\");",
+      "await copyN(r, w, 4); // copy 4 bytes",
+      "",
+      "// Number of bytes read",
+      "console.log(w.toString()); //base0123",
+      "",
+      "await Deno.copy(r, w); // copy all",
+      "console.log(w.toString()); // base0123456789"
+    ],
+    "description": "deno-ex-io-stringWriter"
+  },
+  "deno-ex-io-readerFromStreamReader": {
+    "prefix": "deno-ex-io-readerFromStreamReader",
+    "body": [
+      "import { readerFromStreamReader } from \"https://deno.land/std@0.92.0/io/mod.ts\";",
+      "const res = await fetch(\"https://deno.land\");",
+      "const file = await Deno.open(\"./deno.land.html\", { create: true, write: true });",
+      "",
+      "const reader = readerFromStreamReader(res.body!.getReader());",
+      "await Deno.copy(reader, file);",
+      "file.close();"
+    ],
+    "description": "deno-ex-io-readerFromStreamReader"
+  },
+  "deno-ex-io-writerFromStreamWriter": {
+    "prefix": "deno-ex-io-writerFromStreamWriter",
+    "body": [
+      "import { writerFromStreamWriter } from \"https://deno.land/std@0.92.0/io/mod.ts\";",
+      "const file = await Deno.open(\"./deno.land.html\", { read: true });",
+      "",
+      "const writableStream = new WritableStream({",
+      "  write(chunk): void {",
+      "    console.log(chunk);",
+      "  },",
+      "});",
+      "const writer = writerFromStreamWriter(writableStream.getWriter());",
+      "await Deno.copy(file, writer);",
+      "file.close();"
+    ],
+    "description": "deno-ex-io-writerFromStreamWriter"
+  },
+  "deno-ex-log": {
+    "prefix": "deno-ex-log",
+    "body": [
+      "import * as log from \"https://deno.land/std@0.92.0/log/mod.ts\";",
+      "",
+      "// Simple default logger out of the box. You can customize it",
+      "// by overriding logger and handler named \"default\", or providing",
+      "// additional logger configurations. You can log any data type.",
+      "log.debug(\"Hello world\");",
+      "log.info(123456);",
+      "log.warning(true);",
+      "log.error({ foo: \"bar\", fizz: \"bazz\" });",
+      "log.critical(\"500 Internal server error\");",
+      "",
+      "// custom configuration with 2 loggers (the default and `tasks` loggers).",
+      "await log.setup({",
+      "  handlers: {",
+      "    console: new log.handlers.ConsoleHandler(\"DEBUG\"),",
+      "",
+      "    file: new log.handlers.FileHandler(\"WARNING\", {",
+      "      filename: \"./log.txt\",",
+      "      // you can change format of output message using any keys in `LogRecord`.",
+      "      formatter: \"{levelName} {msg}\",",
+      "    }),",
+      "  },",
+      "",
+      "  loggers: {",
+      "    // configure default logger available via short-hand methods above.",
+      "    default: {",
+      "      level: \"DEBUG\",",
+      "      handlers: [\"console\", \"file\"],",
+      "    },",
+      "",
+      "    tasks: {",
+      "      level: \"ERROR\",",
+      "      handlers: [\"console\"],",
+      "    },",
+      "  },",
+      "});",
+      "",
+      "let logger;",
+      "",
+      "// get default logger.",
+      "logger = log.getLogger();",
+      "logger.debug(\"fizz\"); // logs to `console`, because `file` handler requires \"WARNING\" level.",
+      "logger.warning(41256); // logs to both `console` and `file` handlers.",
+      "",
+      "// get custom logger",
+      "logger = log.getLogger(\"tasks\");",
+      "logger.debug(\"fizz\"); // won't get output because this logger has \"ERROR\" level.",
+      "logger.error({ productType: \"book\", value: \"126.11\" }); // log to `console`.",
+      "",
+      "// if you try to use a logger that hasn't been configured",
+      "// you're good to go, it gets created automatically with level set to 0",
+      "// so no message is logged.",
+      "const unknownLogger = log.getLogger(\"mystery\");",
+      "unknownLogger.info(\"foobar\"); // no-op"
+    ],
+    "description": "deno-ex-log"
+  },
+  "deno-ex-node": {
+    "prefix": "deno-ex-node",
+    "body": [
+      "import { createRequire } from \"https://deno.land/std@0.92.0/node/module.ts\";",
+      "",
+      "const require = createRequire(import.meta.url);",
+      "// Loads native module polyfill.",
+      "const path = require(\"path\");",
+      "// Loads extensionless module.",
+      "const cjsModule = require(\"./my_mod\");",
+      "// Visits node_modules.",
+      "const leftPad = require(\"left-pad\");"
+    ],
+    "description": "deno-ex-node"
+  },
+  "deno-ex-signal": {
+    "prefix": "deno-ex-signal",
+    "body": [
+      "import { signal } from \"https://deno.land/std/signal/mod.ts\";",
+      "const sig = signal(Deno.Signal.SIGUSR1, Deno.Signal.SIGINT);",
+      "setTimeout(() => {}, 5000); // Prevents exiting immediately.",
+      "",
+      "for await (const _ of sig) {",
+      "  // ..",
+      "}",
+      "",
+      "// At some other point in your code when finished listening:",
+      "sig.dispose();",
+      "",
+      "const handle = onSignal(Deno.Signal.SIGINT, () => {",
+      "  // ...",
+      "  handle.dispose(); // de-register from receiving further events.",
+      "});"
+    ],
+    "description": "deno-ex-signal"
+  },
+  "deno-ex-testing-assertEquals": {
+    "prefix": "deno-ex-testing-assertEquals",
+    "body": [
+      "import { assertEquals } from \"https://deno.land/std@0.92.0/testing/asserts.ts\";",
+      "",
+      "Deno.test({",
+      "  name: \"testing example\",",
+      "  fn(): void {",
+      "    assertEquals(\"world\", \"world\");",
+      "    assertEquals({ hello: \"world\" }, { hello: \"world\" });",
+      "  },",
+      "});"
+    ],
+    "description": "deno-ex-testing-assertEquals"
+  },
+  "deno-ex-testing-assertStrictEquals": {
+    "prefix": "deno-ex-testing-assertStrictEquals",
+    "body": [
+      "Deno.test(\"isStrictlyEqual\", function (): void {",
+      "  const a = {};",
+      "  const b = a;",
+      "  assertStrictEquals(a, b);",
+      "});",
+      "",
+      "// This test fails",
+      "Deno.test(\"isNotStrictlyEqual\", function (): void {",
+      "  const a = {};",
+      "  const b = {};",
+      "  assertStrictEquals(a, b);",
+      "});"
+    ],
+    "description": "deno-ex-testing-assertStrictEquals"
+  },
+  "deno-ex-testing-assertThrows": {
+    "prefix": "deno-ex-testing-assertThrows",
+    "body": [
+      "Deno.test(\"doesThrow\", function (): void {",
+      "  assertThrows((): void => {",
+      "    throw new TypeError(\"hello world!\");",
+      "  });",
+      "  assertThrows((): void => {",
+      "    throw new TypeError(\"hello world!\");",
+      "  }, TypeError);",
+      "  assertThrows(",
+      "    (): void => {",
+      "      throw new TypeError(\"hello world!\");",
+      "    },",
+      "    TypeError,",
+      "    \"hello\",",
+      "  );",
+      "});",
+      "",
+      "// This test will not pass.",
+      "Deno.test(\"fails\", function (): void {",
+      "  assertThrows((): void => {",
+      "    console.log(\"Hello world\");",
+      "  });",
+      "});"
+    ],
+    "description": "deno-ex-testing-assertThrows"
+  },
+  "deno-ex-testing-assertThrowsAsync": {
+    "prefix": "deno-ex-testing-assertThrowsAsync",
+    "body": [
+      "Deno.test(\"doesThrow\", async function (): Promise<void> {",
+      "  await assertThrowsAsync(",
+      "    async (): Promise<void> => {",
+      "      throw new TypeError(\"hello world!\");",
+      "    },",
+      "  );",
+      "  await assertThrowsAsync(async (): Promise<void> => {",
+      "    throw new TypeError(\"hello world!\");",
+      "  }, TypeError);",
+      "  await assertThrowsAsync(",
+      "    async (): Promise<void> => {",
+      "      throw new TypeError(\"hello world!\");",
+      "    },",
+      "    TypeError,",
+      "    \"hello\",",
+      "  );",
+      "  await assertThrowsAsync(",
+      "    async (): Promise<void> => {",
+      "      return Promise.reject(new Error());",
+      "    },",
+      "  );",
+      "});",
+      "",
+      "// This test will not pass.",
+      "Deno.test(\"fails\", async function (): Promise<void> {",
+      "  await assertThrowsAsync(",
+      "    async (): Promise<void> => {",
+      "      console.log(\"Hello world\");",
+      "    },",
+      "  );",
+      "});"
+    ],
+    "description": "deno-ex-testing-assertThrowsAsync"
+  },
+  "deno-ex-uuid": {
+    "prefix": "deno-ex-uuid",
+    "body": [
+      "import { v4 } from \"https://deno.land/std@0.92.0/uuid/mod.ts\";",
+      "",
+      "// Generate a v4 uuid.",
+      "const myUUID = v4.generate();",
+      "",
+      "// Validate a v4 uuid.",
+      "const isValid = v4.validate(myUUID);"
+    ],
+    "description": "deno-ex-uuid"
+  },
+  "deno-ex-wasi": {
+    "prefix": "deno-ex-wasi",
+    "body": [
+      "import Context from \"https://deno.land/std@0.92.0/wasi/snapshot_preview1.ts\";",
+      "",
+      "const context = new Context({",
+      "  args: Deno.args,",
+      "  env: Deno.env.toObject(),",
+      "});",
+      "",
+      "const binary = await Deno.readFile(\"path/to/your/module.wasm\");",
+      "const module = await WebAssembly.compile(binary);",
+      "const instance = await WebAssembly.instantiate(module, {",
+      "  \"wasi_snapshot_preview1\": context.exports,",
+      "});",
+      "",
+      "context.start(instance);"
+    ],
+    "description": "deno-ex-wasi"
+  },
+  "deno-ex-ws": {
+    "prefix": "deno-ex-ws",
+    "body": [
+      "import { serve } from \"https://deno.land/std@0.92.0/http/server.ts\";",
+      "import {",
+      "  acceptWebSocket,",
+      "  isWebSocketCloseEvent,",
+      "  isWebSocketPingEvent,",
+      "  WebSocket,",
+      "} from \"https://deno.land/std@0.92.0/ws/mod.ts\";",
+      "",
+      "async function handleWs(sock: WebSocket) {",
+      "  console.log(\"socket connected!\");",
+      "  try {",
+      "    for await (const ev of sock) {",
+      "      if (typeof ev === \"string\") {",
+      "        // text message.",
+      "        console.log(\"ws:Text\", ev);",
+      "        await sock.send(ev);",
+      "      } else if (ev instanceof Uint8Array) {",
+      "        // binary message.",
+      "        console.log(\"ws:Binary\", ev);",
+      "      } else if (isWebSocketPingEvent(ev)) {",
+      "        const [, body] = ev;",
+      "        // ping.",
+      "        console.log(\"ws:Ping\", body);",
+      "      } else if (isWebSocketCloseEvent(ev)) {",
+      "        // close.",
+      "        const { code, reason } = ev;",
+      "        console.log(\"ws:Close\", code, reason);",
+      "      }",
+      "    }",
+      "  } catch (err) {",
+      "    console.error(`failed to receive frame: ${err}`);",
+      "",
+      "    if (!sock.isClosed) {",
+      "      await sock.close(1000).catch(console.error);",
+      "    }",
+      "  }",
+      "}",
+      "",
+      "if (import.meta.main) {",
+      "  /** websocket echo server */",
+      "  const port = Deno.args[0] || \"8080\";",
+      "  console.log(`websocket server is running on :${port}`);",
+      "  for await (const req of serve(`:${port}`)) {",
+      "    const { conn, r: bufReader, w: bufWriter, headers } = req;",
+      "    acceptWebSocket({",
+      "      conn,",
+      "      bufReader,",
+      "      bufWriter,",
+      "      headers,",
+      "    })",
+      "      .then(handleWs)",
+      "      .catch(async (err) => {",
+      "        console.error(`failed to accept websocket: ${err}`);",
+      "        await req.respond({ status: 400 });",
+      "      });",
+      "  }",
+      "}"
+    ],
+    "description": "deno-ex-ws"
   }
 }
