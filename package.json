@@ -2,7 +2,7 @@
     "name": "deno-standard-lib-snippets",
     "displayName": "Deno Standard Library Snippets",
     "description": "Deno Standard library snippet import autocompletions for VS Code",
-    "version": "2.0.1",
+    "version": "4.0.0",
     "icon": "deno-logo.png",
     "publisher": "Thinker",
     "license": "MIT",

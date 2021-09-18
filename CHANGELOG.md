@@ -1,6 +1,10 @@
-## [2.0.1]
+## [4.0.0]
 
-- changed import url from `https://deno.land/std@0.92.0/...` to `https://deno.land/std/...`
+- changed import url from `https://deno.land/std@0.93.0/...` to `https://deno.land/std/...`
+
+## [3.0.0]
+
+- updated std lib version from 0.92.0. to @0.93.0
 
 ## [2.0.0]
 
